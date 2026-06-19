@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cesardenerier.github.io/sitemap.xml
+Sitemap: https://CesarDenerier.github.io/sitemap.xml
